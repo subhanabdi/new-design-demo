@@ -1,0 +1,6 @@
+{
+  "name": "ABC Accounting & Bookkeeping Consultancy",
+  "description": "Accounting & Bookkeeping Consultancy Ltd provides UK-wide accounting, bookkeeping, tax, payroll, business advisory, and financial planning support. Traditional values, modern approach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
